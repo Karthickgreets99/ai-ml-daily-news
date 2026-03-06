@@ -1,0 +1,33 @@
+name: Daily AI Activity
+
+on:
+  schedule:
+    # 16:15 UTC = 8:15 AM America/Los_Angeles during PST; adjust if needed.
+    - cron: '15 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run daily updater
+        run: python scripts/daily_update.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/activity-log.jsonl notes/
+          git diff --cached --quiet || git commit -m "chore: daily AI/ML activity update"
+          git push
