@@ -1,4 +1,4 @@
-# Daily AI/ML Activity Bot
+# Daily AI/ML Readings update
 
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
