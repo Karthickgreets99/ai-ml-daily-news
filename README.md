@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-03-08** — LLM evaluation: Recorded one production-minded architecture insight for scalable AI systems.
 - **2026-03-07** — MLOps observability: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-03-06** — MLOps observability: Captured one experiment idea for improving reliability, latency, or model quality.
 
