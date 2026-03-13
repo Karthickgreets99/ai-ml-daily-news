@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-03-13** — agent reliability: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
 - **2026-03-12** — RAG quality: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-03-11** — RAG quality: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-03-10** — agent reliability: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
