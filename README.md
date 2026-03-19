@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-03-19** — agent reliability: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-03-18** — distributed inference: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-03-17** — LLM evaluation: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
 - **2026-03-16** — LLM evaluation: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
