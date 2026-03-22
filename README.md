@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-03-22** — feature engineering: Recorded one production-minded architecture insight for scalable AI systems.
 - **2026-03-21** — agent reliability: Recorded one production-minded architecture insight for scalable AI systems.
 - **2026-03-20** — MLOps observability: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-03-19** — agent reliability: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
@@ -16,7 +17,6 @@ This repository is updated automatically once a day with a small, genuine AI/ML 
 - **2026-03-11** — RAG quality: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-03-10** — agent reliability: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-03-09** — payment risk modeling: Captured one experiment idea for improving reliability, latency, or model quality.
-- **2026-03-08** — LLM evaluation: Recorded one production-minded architecture insight for scalable AI systems.
 
 ## How it works
 - A GitHub Actions workflow runs on a daily schedule.
