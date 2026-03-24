@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-03-24** — agent reliability: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
 - **2026-03-23** — AI governance: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
 - **2026-03-22** — feature engineering: Recorded one production-minded architecture insight for scalable AI systems.
 - **2026-03-21** — agent reliability: Recorded one production-minded architecture insight for scalable AI systems.
@@ -16,7 +17,6 @@ This repository is updated automatically once a day with a small, genuine AI/ML 
 - **2026-03-13** — agent reliability: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
 - **2026-03-12** — RAG quality: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-03-11** — RAG quality: Captured one experiment idea for improving reliability, latency, or model quality.
-- **2026-03-10** — agent reliability: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 
 ## How it works
 - A GitHub Actions workflow runs on a daily schedule.
