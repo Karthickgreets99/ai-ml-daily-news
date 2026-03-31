@@ -23,3 +23,4 @@
 {"date": "2026-03-28", "topic": "identity verification AI", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-03-28T16:50:36.810868+00:00"}
 {"date": "2026-03-29", "topic": "feature engineering", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-03-29T16:52:04.964442+00:00"}
 {"date": "2026-03-30", "topic": "RAG quality", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-03-30T17:11:06.234601+00:00"}
+{"date": "2026-03-31", "topic": "agent reliability", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-03-31T17:13:57.562241+00:00"}
