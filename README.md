@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-04-04** — RAG quality: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
 - **2026-04-03** — AI governance: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
 - **2026-04-02** — distributed inference: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
 - **2026-04-01** — identity verification AI: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
@@ -16,7 +17,6 @@ This repository is updated automatically once a day with a small, genuine AI/ML 
 - **2026-03-24** — agent reliability: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
 - **2026-03-23** — AI governance: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
 - **2026-03-22** — feature engineering: Recorded one production-minded architecture insight for scalable AI systems.
-- **2026-03-21** — agent reliability: Recorded one production-minded architecture insight for scalable AI systems.
 
 ## How it works
 - A GitHub Actions workflow runs on a daily schedule.

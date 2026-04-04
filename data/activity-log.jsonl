@@ -27,3 +27,4 @@
 {"date": "2026-04-01", "topic": "identity verification AI", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-04-01T17:11:14.734682+00:00"}
 {"date": "2026-04-02", "topic": "distributed inference", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-04-02T17:09:06.070566+00:00"}
 {"date": "2026-04-03", "topic": "AI governance", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-04-03T16:56:54.897253+00:00"}
+{"date": "2026-04-04", "topic": "RAG quality", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-04-04T16:52:49.143699+00:00"}
