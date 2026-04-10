@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-04-10** — MLOps observability: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-04-09** — RAG quality: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-04-08** — LLM evaluation: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
 - **2026-04-07** — agent reliability: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
@@ -16,7 +17,6 @@ This repository is updated automatically once a day with a small, genuine AI/ML 
 - **2026-03-30** — RAG quality: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
 - **2026-03-29** — feature engineering: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
 - **2026-03-28** — identity verification AI: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
-- **2026-03-27** — MLOps observability: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 
 ## How it works
 - A GitHub Actions workflow runs on a daily schedule.
