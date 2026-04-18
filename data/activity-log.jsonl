@@ -41,3 +41,4 @@
 {"date": "2026-04-15", "topic": "MLOps observability", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-04-15T17:18:35.364305+00:00"}
 {"date": "2026-04-16", "topic": "agent reliability", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-04-16T17:43:02.230799+00:00"}
 {"date": "2026-04-17", "topic": "RAG quality", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-04-17T17:06:38.811297+00:00"}
+{"date": "2026-04-18", "topic": "LLM evaluation", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-04-18T16:57:42.186516+00:00"}
