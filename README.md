@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-04-24** — LLM evaluation: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-04-23** — payment risk modeling: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-04-22** — fraud detection ML: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-04-21** — LLM evaluation: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
@@ -16,7 +17,6 @@ This repository is updated automatically once a day with a small, genuine AI/ML 
 - **2026-04-13** — payment risk modeling: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-04-12** — RAG quality: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-04-11** — LLM evaluation: Captured one experiment idea for improving reliability, latency, or model quality.
-- **2026-04-10** — MLOps observability: Captured one experiment idea for improving reliability, latency, or model quality.
 
 ## How it works
 - A GitHub Actions workflow runs on a daily schedule.
