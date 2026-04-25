@@ -48,3 +48,4 @@
 {"date": "2026-04-22", "topic": "fraud detection ML", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-04-22T17:14:25.119104+00:00"}
 {"date": "2026-04-23", "topic": "payment risk modeling", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-04-23T17:45:09.455217+00:00"}
 {"date": "2026-04-24", "topic": "LLM evaluation", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-04-24T17:12:33.696720+00:00"}
+{"date": "2026-04-25", "topic": "distributed inference", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-04-25T17:00:57.503967+00:00"}
