@@ -51,3 +51,4 @@
 {"date": "2026-04-25", "topic": "distributed inference", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-04-25T17:00:57.503967+00:00"}
 {"date": "2026-04-26", "topic": "MLOps observability", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-04-26T17:02:03.139193+00:00"}
 {"date": "2026-04-27", "topic": "MLOps observability", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-04-27T17:41:19.191708+00:00"}
+{"date": "2026-04-28", "topic": "identity verification AI", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-04-28T17:55:39.230339+00:00"}
