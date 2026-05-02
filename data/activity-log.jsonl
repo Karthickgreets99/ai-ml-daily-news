@@ -55,3 +55,4 @@
 {"date": "2026-04-29", "topic": "RAG quality", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-04-29T17:49:08.659442+00:00"}
 {"date": "2026-04-30", "topic": "MLOps observability", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-04-30T17:44:50.317357+00:00"}
 {"date": "2026-05-01", "topic": "AI governance", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-05-01T17:12:42.131055+00:00"}
+{"date": "2026-05-02", "topic": "agent reliability", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-05-02T17:06:33.925416+00:00"}
