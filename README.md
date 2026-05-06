@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-05-06** — payment risk modeling: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-05-05** — LLM evaluation: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-05-04** — feature engineering: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
 - **2026-05-03** — identity verification AI: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
@@ -16,7 +17,6 @@ This repository is updated automatically once a day with a small, genuine AI/ML 
 - **2026-04-25** — distributed inference: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
 - **2026-04-24** — LLM evaluation: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-04-23** — payment risk modeling: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
-- **2026-04-22** — fraud detection ML: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 
 ## How it works
 - A GitHub Actions workflow runs on a daily schedule.
