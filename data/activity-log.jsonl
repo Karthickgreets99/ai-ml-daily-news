@@ -62,3 +62,4 @@
 {"date": "2026-05-06", "topic": "payment risk modeling", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-05-06T17:51:35.195309+00:00"}
 {"date": "2026-05-07", "topic": "MLOps observability", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-05-07T17:57:39.436699+00:00"}
 {"date": "2026-05-08", "topic": "RAG quality", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-05-08T17:43:30.513111+00:00"}
+{"date": "2026-05-09", "topic": "fraud detection ML", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-05-09T17:12:08.079082+00:00"}
