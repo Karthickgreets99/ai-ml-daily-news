@@ -67,3 +67,4 @@
 {"date": "2026-05-11", "topic": "AI governance", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-05-11T18:04:01.477192+00:00"}
 {"date": "2026-05-12", "topic": "distributed inference", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-05-12T18:16:42.986039+00:00"}
 {"date": "2026-05-13", "topic": "agent reliability", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-05-13T18:15:10.662548+00:00"}
+{"date": "2026-05-14", "topic": "MLOps observability", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-05-14T18:06:48.121013+00:00"}
