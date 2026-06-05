@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-06-05** — distributed inference: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
 - **2026-06-04** — AI governance: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
 - **2026-06-03** — MLOps observability: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
 - **2026-06-02** — AI governance: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
@@ -16,7 +17,6 @@ This repository is updated automatically once a day with a small, genuine AI/ML 
 - **2026-05-25** — LLM evaluation: Recorded one production-minded architecture insight for scalable AI systems.
 - **2026-05-24** — RAG quality: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-05-23** — agent reliability: Captured one experiment idea for improving reliability, latency, or model quality.
-- **2026-05-22** — agent reliability: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 
 ## How it works
 - A GitHub Actions workflow runs on a daily schedule.
