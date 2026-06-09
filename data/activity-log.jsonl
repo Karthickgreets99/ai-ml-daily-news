@@ -93,3 +93,4 @@
 {"date": "2026-06-06", "topic": "fraud detection ML", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-06-06T17:34:24.743863+00:00"}
 {"date": "2026-06-07", "topic": "payment risk modeling", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-06-07T17:40:13.098357+00:00"}
 {"date": "2026-06-08", "topic": "LLM evaluation", "summary": "Recorded one production-minded architecture insight for scalable AI systems.", "timestamp_utc": "2026-06-08T18:34:46.218579+00:00"}
+{"date": "2026-06-09", "topic": "RAG quality", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-06-09T18:20:34.639180+00:00"}
