@@ -109,3 +109,4 @@
 {"date": "2026-06-22", "topic": "distributed inference", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-06-22T19:46:33.126357+00:00"}
 {"date": "2026-06-23", "topic": "MLOps observability", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-06-23T18:14:07.769237+00:00"}
 {"date": "2026-06-24", "topic": "MLOps observability", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-06-24T18:06:39.869213+00:00"}
+{"date": "2026-06-25", "topic": "AI governance", "summary": "Recorded one production-minded architecture insight for scalable AI systems.", "timestamp_utc": "2026-06-25T18:25:06.011068+00:00"}
