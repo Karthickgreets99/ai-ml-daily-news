@@ -110,3 +110,4 @@
 {"date": "2026-06-23", "topic": "MLOps observability", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-06-23T18:14:07.769237+00:00"}
 {"date": "2026-06-24", "topic": "MLOps observability", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-06-24T18:06:39.869213+00:00"}
 {"date": "2026-06-25", "topic": "AI governance", "summary": "Recorded one production-minded architecture insight for scalable AI systems.", "timestamp_utc": "2026-06-25T18:25:06.011068+00:00"}
+{"date": "2026-06-26", "topic": "payment risk modeling", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-06-26T18:02:55.132072+00:00"}
