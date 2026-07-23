@@ -137,3 +137,4 @@
 {"date": "2026-07-20", "topic": "fraud detection ML", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-07-20T18:18:29.231040+00:00"}
 {"date": "2026-07-21", "topic": "agent reliability", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-07-21T17:44:14.220931+00:00"}
 {"date": "2026-07-22", "topic": "MLOps observability", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-07-22T17:40:41.638370+00:00"}
+{"date": "2026-07-23", "topic": "LLM evaluation", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-07-23T17:44:48.025256+00:00"}
