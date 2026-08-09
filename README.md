@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-08-09** — AI governance: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
 - **2026-08-08** — feature engineering: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-08-07** — identity verification AI: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
 - **2026-08-05** — AI governance: Captured one experiment idea for improving reliability, latency, or model quality.
@@ -16,7 +17,6 @@ This repository is updated automatically once a day with a small, genuine AI/ML 
 - **2026-07-28** — MLOps observability: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-07-27** — distributed inference: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-07-26** — agent reliability: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
-- **2026-07-25** — LLM evaluation: Recorded one production-minded architecture insight for scalable AI systems.
 
 ## How it works
 - A GitHub Actions workflow runs on a daily schedule.
