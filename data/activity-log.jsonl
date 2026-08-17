@@ -161,3 +161,4 @@
 {"date": "2026-08-14", "topic": "AI governance", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-08-14T17:10:02.981091+00:00"}
 {"date": "2026-08-15", "topic": "payment risk modeling", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-08-15T16:40:14.220597+00:00"}
 {"date": "2026-08-16", "topic": "LLM evaluation", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-08-16T16:41:35.658933+00:00"}
+{"date": "2026-08-17", "topic": "RAG quality", "summary": "Recorded one production-minded architecture insight for scalable AI systems.", "timestamp_utc": "2026-08-17T16:44:31.758421+00:00"}
