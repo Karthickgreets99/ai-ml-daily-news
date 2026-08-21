@@ -165,3 +165,4 @@
 {"date": "2026-08-18", "topic": "RAG quality", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-08-18T16:47:26.128084+00:00"}
 {"date": "2026-08-19", "topic": "fraud detection ML", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-08-19T16:45:35.152560+00:00"}
 {"date": "2026-08-20", "topic": "fraud detection ML", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-08-20T16:49:33.913727+00:00"}
+{"date": "2026-08-21", "topic": "distributed inference", "summary": "Recorded one production-minded architecture insight for scalable AI systems.", "timestamp_utc": "2026-08-21T16:50:01.477721+00:00"}
