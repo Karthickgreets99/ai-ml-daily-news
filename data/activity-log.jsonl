@@ -172,3 +172,4 @@
 {"date": "2026-08-25", "topic": "payment risk modeling", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-08-25T16:54:11.464199+00:00"}
 {"date": "2026-08-26", "topic": "distributed inference", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-08-26T16:58:09.410465+00:00"}
 {"date": "2026-08-28", "topic": "feature engineering", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-08-28T00:56:30.478629+00:00"}
+{"date": "2026-08-29", "topic": "fraud detection ML", "summary": "Recorded one production-minded architecture insight for scalable AI systems.", "timestamp_utc": "2026-08-29T00:33:06.703903+00:00"}
