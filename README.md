@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-10-02** — feature engineering: Recorded one production-minded architecture insight for scalable AI systems.
 - **2026-10-01** — identity verification AI: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-09-30** — distributed inference: Recorded one production-minded architecture insight for scalable AI systems.
 - **2026-09-29** — payment risk modeling: Captured one experiment idea for improving reliability, latency, or model quality.
@@ -16,7 +17,6 @@ This repository is updated automatically once a day with a small, genuine AI/ML 
 - **2026-09-21** — distributed inference: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-09-20** — agent reliability: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-09-19** — distributed inference: Recorded one production-minded architecture insight for scalable AI systems.
-- **2026-09-18** — LLM evaluation: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 
 ## How it works
 - A GitHub Actions workflow runs on a daily schedule.
