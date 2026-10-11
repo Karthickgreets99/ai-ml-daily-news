@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-10-11** — fraud detection ML: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-10-10** — RAG quality: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-10-09** — LLM evaluation: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-10-08** — feature engineering: Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.
@@ -16,7 +17,6 @@ This repository is updated automatically once a day with a small, genuine AI/ML 
 - **2026-09-30** — distributed inference: Recorded one production-minded architecture insight for scalable AI systems.
 - **2026-09-29** — payment risk modeling: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-09-28** — agent reliability: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
-- **2026-09-27** — AI governance: Captured one experiment idea for improving reliability, latency, or model quality.
 
 ## How it works
 - A GitHub Actions workflow runs on a daily schedule.

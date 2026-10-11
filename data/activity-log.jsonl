@@ -215,3 +215,4 @@
 {"date": "2026-10-08", "topic": "feature engineering", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-10-08T21:19:17.369609+00:00"}
 {"date": "2026-10-09", "topic": "LLM evaluation", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-10-09T20:53:51.543620+00:00"}
 {"date": "2026-10-10", "topic": "RAG quality", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-10-10T20:03:13.607791+00:00"}
+{"date": "2026-10-11", "topic": "fraud detection ML", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-10-11T20:15:58.291791+00:00"}
