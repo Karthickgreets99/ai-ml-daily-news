@@ -229,3 +229,4 @@
 {"date": "2026-10-22", "topic": "distributed inference", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-10-22T20:06:05.151544+00:00"}
 {"date": "2026-10-23", "topic": "distributed inference", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-10-23T19:56:56.881884+00:00"}
 {"date": "2026-10-24", "topic": "LLM evaluation", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-10-24T18:46:52.116920+00:00"}
+{"date": "2026-10-25", "topic": "fraud detection ML", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-10-25T19:02:23.383391+00:00"}
