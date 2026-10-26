@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-10-26** — fraud detection ML: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
 - **2026-10-25** — fraud detection ML: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-10-24** — LLM evaluation: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-10-23** — distributed inference: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
@@ -16,7 +17,6 @@ This repository is updated automatically once a day with a small, genuine AI/ML 
 - **2026-10-15** — feature engineering: Recorded one production-minded architecture insight for scalable AI systems.
 - **2026-10-14** — RAG quality: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-10-13** — LLM evaluation: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
-- **2026-10-12** — LLM evaluation: Captured one experiment idea for improving reliability, latency, or model quality.
 
 ## How it works
 - A GitHub Actions workflow runs on a daily schedule.
