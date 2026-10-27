@@ -231,3 +231,4 @@
 {"date": "2026-10-24", "topic": "LLM evaluation", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-10-24T18:46:52.116920+00:00"}
 {"date": "2026-10-25", "topic": "fraud detection ML", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-10-25T19:02:23.383391+00:00"}
 {"date": "2026-10-26", "topic": "fraud detection ML", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-10-26T21:00:14.595566+00:00"}
+{"date": "2026-10-27", "topic": "payment risk modeling", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-10-27T20:41:08.530756+00:00"}
