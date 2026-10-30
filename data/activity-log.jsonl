@@ -234,3 +234,4 @@
 {"date": "2026-10-27", "topic": "payment risk modeling", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-10-27T20:41:08.530756+00:00"}
 {"date": "2026-10-28", "topic": "feature engineering", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-10-28T21:03:30.076923+00:00"}
 {"date": "2026-10-29", "topic": "fraud detection ML", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-10-29T21:06:34.718782+00:00"}
+{"date": "2026-10-30", "topic": "AI governance", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-10-30T20:47:17.902801+00:00"}
