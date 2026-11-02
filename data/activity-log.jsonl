@@ -237,3 +237,4 @@
 {"date": "2026-10-30", "topic": "AI governance", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-10-30T20:47:17.902801+00:00"}
 {"date": "2026-10-31", "topic": "identity verification AI", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-10-31T19:58:30.081011+00:00"}
 {"date": "2026-11-01", "topic": "distributed inference", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-11-01T20:29:43.539357+00:00"}
+{"date": "2026-11-02", "topic": "RAG quality", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-11-02T23:29:11.514996+00:00"}
