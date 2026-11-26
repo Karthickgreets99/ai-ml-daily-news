@@ -258,3 +258,4 @@
 {"date": "2026-11-22", "topic": "LLM evaluation", "summary": "Added a short note on applying AI/ML patterns to fintech, identity, or platform engineering.", "timestamp_utc": "2026-11-22T21:44:50.408966+00:00"}
 {"date": "2026-11-24", "topic": "feature engineering", "summary": "Summarized one practical takeaway from an AI/ML paper and linked it to production systems.", "timestamp_utc": "2026-11-24T02:53:46.269145+00:00"}
 {"date": "2026-11-25", "topic": "LLM evaluation", "summary": "Captured one experiment idea for improving reliability, latency, or model quality.", "timestamp_utc": "2026-11-25T00:43:24.248169+00:00"}
+{"date": "2026-11-26", "topic": "MLOps observability", "summary": "Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.", "timestamp_utc": "2026-11-26T00:19:42.280358+00:00"}
