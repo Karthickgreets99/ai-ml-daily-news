@@ -3,6 +3,7 @@
 This repository is updated automatically once a day with a small, genuine AI/ML learning note.
 
 ## Latest activity
+- **2026-11-27** — AI governance: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
 - **2026-11-26** — MLOps observability: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
 - **2026-11-25** — LLM evaluation: Captured one experiment idea for improving reliability, latency, or model quality.
 - **2026-11-24** — feature engineering: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
@@ -16,7 +17,6 @@ This repository is updated automatically once a day with a small, genuine AI/ML 
 - **2026-11-14** — AI governance: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
 - **2026-11-13** — feature engineering: Documented a lesson learned about evaluation, monitoring, or deployment tradeoffs.
 - **2026-11-12** — LLM evaluation: Summarized one practical takeaway from an AI/ML paper and linked it to production systems.
-- **2026-11-11** — payment risk modeling: Captured one experiment idea for improving reliability, latency, or model quality.
 
 ## How it works
 - A GitHub Actions workflow runs on a daily schedule.
